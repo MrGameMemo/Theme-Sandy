@@ -23,7 +23,7 @@
                 <div id="load"></div>
                 </div><br><br>
 <!--Down-->
-<h3 class="home-page" style="color: #54a0ff" data-aos="fade-in">Actualitée</h3>
+<h3 class="home-page" style="color: #54a0ff" data-aos="fade-in">Actualités</h3>
 <div class="container" data-aos="zoom-out">
         <div class="row">
             <div class="col-md-8">
